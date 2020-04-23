@@ -42,6 +42,9 @@ h4{
   display: none;
 }
 
+center1{
+  text-align: center;
+}
 
 /*Use this class when you want your content to be shown after some scroll*/
 .AfterScroll
